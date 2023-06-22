@@ -36,19 +36,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Got to know about this website and the challenges it has. I was searching for something like this to pratice upon and boost frontend skills.
 Every challenge brings something new with it. In frontend there is no define path to make a certain design. It totaly depends on exploration and time spending with the code that shapes the interface.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
